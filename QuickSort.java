@@ -1,6 +1,7 @@
 import java.util.*;
 
-class Node {
+class Node
+{
     int     Val;
 
     Node (int   Value)
@@ -10,7 +11,8 @@ class Node {
     }
 }
 
-public class QuickSort {
+public class QuickSort
+{
     
     public static int SortFunction (ArrayList<Integer>  arr, int start, int end)
     {
