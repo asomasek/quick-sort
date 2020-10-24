@@ -1,2 +1,2 @@
-# test1
-First Test Repository
+# quick-sort
+Quick Sort Algorithm
