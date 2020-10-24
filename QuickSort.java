@@ -60,6 +60,7 @@ public class QuickSort {
         arr.add (7);
         arr.add (6);
         arr.add (5);
+        arr.add (47);
 
         System.out.println (arr);
         System.out.println (arr.size());
